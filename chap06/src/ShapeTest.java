@@ -18,7 +18,7 @@ class Circle{
 }
 
 
-class Sphere extends Circle{
+class Sphere extends Circle1 {
     // 생성자: 구의 반지름을 초기화함
     Sphere (double r){
         super(r);
